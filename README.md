@@ -10,5 +10,5 @@ A Git Bash Terminal Window will appear, enter the follow commands:
 2. On the web browser of your choice, search the following:
   - localhost:5000
 
-3.The app should now be successfully running!
+3. The app should now be successfully running!
   - On subsequent runs, it is only necessary to open git bash in the directory of the app and run the command “flask run”. 
